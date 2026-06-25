@@ -48,8 +48,8 @@
     "Id": "CopilotAI",
     "Name": "Copilot & AI",
     "Description": "Under Development: Microsoft 365 Copilot and AI management pages including settings, usage reports, Agent365 packages, and Shadow AI analysis.",
-    "Enabled": false,
-    "AllowUserToggle": false,
+    "Enabled": true,
+    "AllowUserToggle": true,
     "Timers": [],
     "Endpoints": [
       "ListCopilotSettings",
